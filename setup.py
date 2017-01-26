@@ -9,6 +9,7 @@ Licensed under GPLv3, see LICENSE.md
 """
 
 from setuptools import setup, find_packages
+import fastentrypoints
 
 install_requires = [
     'click',
